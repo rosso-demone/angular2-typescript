@@ -1,27 +1,4 @@
-*.pyc
-*.pyo
-*~
-*.sqlite
-.project
-.pydevproject
-*.swp
-*.bak
-.idea/*
-*.foo
-# Byte-compiled / optimized / DLL files
-**/*.pyc[cod]
-**/*.bak[cod]
-**/*.bak
-**/*.DS_Store
-.DS_Store
-.DS_Store?
-**/*.pyc
-**/.idea/
 
-# yaml file ignore
-workspace.xml
-app.yaml.*
-/node_modules
-/npm-debug.log
-node_modules/
+/typings/
 /node_modules/
+.idea/
